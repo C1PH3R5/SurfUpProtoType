@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexa\\Source\\Repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj": {}
+    "C:\\Users\\Alexa\\source\\repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexa\\Source\\Repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj": {
+    "C:\\Users\\Alexa\\source\\repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexa\\Source\\Repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj",
+        "projectUniqueName": "C:\\Users\\Alexa\\source\\repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj",
         "projectName": "ProtoTypeV1",
-        "projectPath": "C:\\Users\\Alexa\\Source\\Repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj",
+        "projectPath": "C:\\Users\\Alexa\\source\\repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj",
         "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexa\\Source\\Repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\obj\\",
+        "outputPath": "C:\\Users\\Alexa\\source\\repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
