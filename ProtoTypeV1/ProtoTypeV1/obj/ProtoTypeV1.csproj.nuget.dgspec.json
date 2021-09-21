@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mgc75\\Documents\\GitHub\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj": {}
+    "C:\\Users\\Alexa\\Source\\Repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mgc75\\Documents\\GitHub\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj": {
+    "C:\\Users\\Alexa\\Source\\Repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mgc75\\Documents\\GitHub\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj",
+        "projectUniqueName": "C:\\Users\\Alexa\\Source\\Repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj",
         "projectName": "ProtoTypeV1",
-        "projectPath": "C:\\Users\\mgc75\\Documents\\GitHub\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj",
-        "packagesPath": "C:\\Users\\mgc75\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mgc75\\Documents\\GitHub\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\obj\\",
+        "projectPath": "C:\\Users\\Alexa\\Source\\Repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\ProtoTypeV1.csproj",
+        "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alexa\\Source\\Repos\\C1PH3R5\\SurfUpProtoType\\ProtoTypeV1\\ProtoTypeV1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mgc75\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
