@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api_Cal_lApi", "Api_Cal_lApi\Api_Cal_lApi.csproj", "{5FD789ED-2D48-4FC0-AC65-0566A82A5636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCaller", "ApiCaller\ApiCaller.csproj", "{BE3043BD-6EAE-46B0-BBEA-283389D4B3AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD789ED-2D48-4FC0-AC65-0566A82A5636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD789ED-2D48-4FC0-AC65-0566A82A5636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD789ED-2D48-4FC0-AC65-0566A82A5636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD789ED-2D48-4FC0-AC65-0566A82A5636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3043BD-6EAE-46B0-BBEA-283389D4B3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3043BD-6EAE-46B0-BBEA-283389D4B3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3043BD-6EAE-46B0-BBEA-283389D4B3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3043BD-6EAE-46B0-BBEA-283389D4B3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7CAC03C-7111-454C-8FE2-1B99E082B797}
+	EndGlobalSection
+EndGlobal

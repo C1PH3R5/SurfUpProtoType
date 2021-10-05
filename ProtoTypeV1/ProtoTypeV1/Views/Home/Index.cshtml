@@ -1,42 +1,80 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<div class="container">
+    <!--Grid row-->
+    <div class="row text-center">
 
-<div class="row text-center">
+        <!--Grid column-->
+        <div class="col-sm-12 col-md-12 col-lg-12">
+            <h1 class="Font-Fam-Franklin text-center">Populære udlejnings kategorier</h1>
+        </div>
+        <div class=" col-sm-12 col-md-4 col-lg-4 ">
 
-    <!--Grid column-->
-    <div class=" col-sm-12 col-md-6 col-lg-3 ">
+            <h2 class="my-5 h2 Font-Fam-Franklin">SUP/Paddle Boarding</h2>
 
-        <h2 class="my-5 h2">Basic example</h2>
+            <img class="rounded-circle z-depth-2 img-fluid" alt="100x100" src="~/Ressurces/Img/Paddle-Sub-Card-Img 256x256.jpg"
+                 data-holder-rendered="true">
 
-        <img class="rounded-circle z-depth-2 img-fluid" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-             data-holder-rendered="true">
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4 ">
 
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3 ">
+            <h2 class="my-5 h2 Font-Fam-Franklin">Kite Surfing</h2>
 
-        <h2 class="my-5 h2">With shadow</h2>
+            <img class="rounded-circle z-depth-2 img-fluid" alt="100x100" src="/Ressurces/Img/Kitesurfing-card-img-256x256.jpg"
+                 data-holder-rendered="true">
 
-        <img class="rounded-circle z-depth-2 img-fluid" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(31).jpg"
-             data-holder-rendered="true">
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4 ">
 
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3 ">
+            <h2 class="my-5 h2 Font-Fam-Franklin">Surfing</h2>
 
-        <h2 class="my-5 h2">With shadow</h2>
+            <img class="rounded-circle z-depth-2 img-fluid" alt="100x100" src="/Ressurces/Img/surfing-Card-Img-256x256.jpg"
+                 data-holder-rendered="true">
 
-        <img class="rounded-circle z-depth-2 img-fluid" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(31).jpg"
-             data-holder-rendered="true">
-
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3 ">
-
-        <h2 class="my-5 h2">Basic example</h2>
-
-        <img class="rounded-circle  img-fluid" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-             data-holder-rendered="true">
+        </div>
 
     </div>
-    <!--Grid column-->
-
+</div>
+<!-- Grid row-->
+<div class="container-fluid margin-null padding-null">
+    <div class="row margin-null">
+        <div class="col-sm-12 col-md-6 margin-null padding-null">
+            <h2 class="my-5 h2 Font-Fam-Franklin text-center">Wind map</h2>
+            <iframe class="embed-responsive" src="https://embed.windy.com/embed2.html?lat=55.792&lon=9.613&detailLat=55.792&detailLon=9.613&width=650&height=450&zoom=6&level=surface&overlay=wind&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1"
+                    frameborder="0"
+                    height="500"></iframe>
+        </div>
+        <div class="col-sm-12 col-md-6 margin-null padding-null">
+            <h2 class="my-5 h2 Font-Fam-Franklin text-center">Waves map</h2>
+            <iframe class="embed-responsive" src="https://embed.windy.com/embed2.html?lat=55.792&lon=9.613&detailLat=55.792&detailLon=9.613&width=650&height=450&zoom=6&level=surface&overlay=waves&product=ecmwfWaves&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1"
+                    frameborder="0"
+                    height="500"></iframe>
+        </div>
+    </div>
+</div>
+<div class="container-fluid about">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12">
+                <h1>About US</h1>
+            </div>
+            <div class="col-lg-4 col-sm-12 col-ex-12 about-item wow lightSpeedIn" data-wow-offset="200">
+                <span class="material-icons">people</span>
+                <h2>Section 1</h2>
+                <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+            </div>
+            <div class="col-lg-4 col-sm-12 col-ex-12 about-item wow lightSpeedIn" data-wow-offset="200">
+                <span class="material-icons">info</span>
+                <h2>Section 2 </h2>
+                <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum </p>
+            </div>
+            <div class="clearfix visible-md-block visible-sm-block"></div>
+            <div class="col-lg-4 col-sm-12 col-ex-12 about-item wow lightSpeedIn" data-wow-offset="200">
+                <span class="material-icons">call</span>
+                <h2>Section 3</h2>
+                <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+            </div>
+        </div>
+    </div>
 </div>

@@ -38,3 +38,4 @@ C:\Users\mgc75\Documents\GitHub\SurfUpProtoType\ProtoTypeV1\ProtoTypeV1\obj\Debu
 C:\Users\mgc75\Documents\GitHub\SurfUpProtoType\ProtoTypeV1\ProtoTypeV1\obj\Debug\net5.0\ProtoTypeV1.pdb
 C:\Users\mgc75\Documents\GitHub\SurfUpProtoType\ProtoTypeV1\ProtoTypeV1\obj\Debug\net5.0\ProtoTypeV1.genruntimeconfig.cache
 C:\Users\mgc75\Documents\GitHub\SurfUpProtoType\ProtoTypeV1\ProtoTypeV1\obj\Debug\net5.0\ProtoTypeV1.csproj.CopyComplete
+C:\Users\mgc75\Documents\GitHub\SurfUpProtoType\ProtoTypeV1\ProtoTypeV1\obj\Debug\net5.0\Razor\Views\Rent\Index.cshtml.g.cs
